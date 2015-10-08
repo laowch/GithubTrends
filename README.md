@@ -13,6 +13,11 @@ It supports more than 50+ program languages and you are free to add/remove/sort 
 
 It supports nine kinds of color themes.
 
+#Downloads 
+Google Play: https://play.google.com/store/apps/details?id=com.laowch.githubtrends
+如果喜欢，请给个五星好评，非常感谢！
+
+
 #Screenshots
 <img src="/screenshot/1.png" alt="screenshot" title="screenshot" width="360" height="640" />   <img src="/screenshot/4.png" alt="screenshot" title="screenshot"  width="360" height="640"  />
 
