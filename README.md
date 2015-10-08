@@ -5,7 +5,7 @@
 
 支持订阅 50 多种编程语言，你可以在设置中添加/删除它们，并自定义它们的排序。
 
-支持 9 种颜色主题。
+支持 9 种颜色主题切换，支持收藏喜欢的项目。
 
 It's a GitHub Trending repositories Viewer with Material Design. (https://github.com/trending)
 
@@ -14,7 +14,8 @@ It supports more than 50+ program languages and you are free to add/remove/sort 
 It supports nine kinds of color themes.
 
 #Downloads 
-Google Play: https://play.google.com/store/apps/details?id=com.laowch.githubtrends
+Google Play: [https://play.google.com/store/apps/details?id=com.laowch.githubtrends](https://play.google.com/store/apps/details?id=com.laowch.githubtrends&utm=github)
+
 
 如果喜欢，请给个五星好评，非常感谢！
 
