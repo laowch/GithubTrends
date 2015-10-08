@@ -15,6 +15,7 @@ It supports nine kinds of color themes.
 
 #Downloads 
 Google Play: https://play.google.com/store/apps/details?id=com.laowch.githubtrends
+
 如果喜欢，请给个五星好评，非常感谢！
 
 
