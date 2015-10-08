@@ -1,9 +1,4 @@
 # GithubTrends
-It's a GitHub Trending repositories Viewer with Material Design. (https://github.com/trending)
-
-It supports more than 50+ program languages and you are free to add/remove/sort them. 
-
-It supports nine kinds of color themes.
 
 这是一个用来看查看 Github 热门项目(https://github.com/trending)的 Android App, 遵循 Material Design。
 
@@ -11,5 +6,13 @@ It supports nine kinds of color themes.
 
 支持 9 种颜色主题。
 
+It's a GitHub Trending repositories Viewer with Material Design. (https://github.com/trending)
+
+It supports more than 50+ program languages and you are free to add/remove/sort them. 
+
+It supports nine kinds of color themes.
+
 #Screenshots
-<img src="https://raw.githubusercontent.com/laowch/GithubTrends/master/screenshot/2.png" alt="screenshot">
+<img src="/screenshot/1.png" alt="screenshot" title="screenshot" width="360" height="640" />   <img src="/screenshot/2.png" alt="screenshot" title="screenshot"  width="360" height="640"  />
+
+<img src="/screenshot/3.png" alt="screenshot" title="screenshot"  width="360" height="640"  />   <img src="/screenshot/4.png" alt="screenshot" title="screenshot"  width="360" height="640" />
