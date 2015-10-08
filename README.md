@@ -1,6 +1,7 @@
 # GithubTrends
 
-这是一个用来看查看 Github 热门项目(https://github.com/trending)的 Android App, 遵循 Material Design。
+这是一个用来看查看 Github 热门项目的 Android App, 遵循 Material Design。 
+(https://github.com/trending)
 
 支持订阅 50 多种编程语言，你可以在设置中添加/删除它们，并自定义它们的排序。
 
