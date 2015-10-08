@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github Trends</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="custom_language">Custom Languages</string>
+
+    <string name="remove_language">Remove Language</string>
+    <string name="done">Done</string>
+    <string name="add_language">Add Language</string>
+    <string name="save">Save</string>
+    <string name="not_save">Don\'t Save</string>
+    <string name="about">About</string>
+    <string name="change_theme">Color Theme</string>
+</resources>

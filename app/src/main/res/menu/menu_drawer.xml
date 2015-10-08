@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_favos"
+        android:icon="@drawable/ic_action_favo"
+        android:title="@string/favorites" />
+
+    <item
+        android:id="@+id/languages"
+        android:title="Languages">
+        <menu>
+            <item
+                android:id="@+id/action_custom"
+                android:icon="@drawable/ic_action_custom"
+                android:title="@string/custom_language" />
+            <item
+                android:id="@id/action_add"
+                android:icon="@drawable/ic_action_add"
+                android:title="@string/add_language" />
+
+            <item
+                android:id="@id/action_remove"
+                android:icon="@drawable/ic_action_remove"
+                android:title="@string/remove_language" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/action_settings">
+        <menu>
+            <item
+                android:id="@+id/action_theme"
+                android:icon="@drawable/ic_action_theme"
+                android:title="@string/change_theme" />
+
+            <item
+                android:id="@+id/action_about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+</menu>

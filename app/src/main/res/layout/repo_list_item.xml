@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/repo_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="4dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="4dp"
+    android:background="@android:color/white"
+    android:foreground="?android:attr/selectableItemBackground"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardCornerRadius="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/repo_list_item_padding">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="?android:attr/textColorPrimary" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/repo_list_text_margin_top"
+            android:textAppearance="?android:textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/meta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/repo_list_text_margin_top"
+            android:textAppearance="?android:textAppearanceSmall" />
+
+
+        <LinearLayout
+            android:id="@+id/contributors_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/repo_list_avatar_margin_top"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/built_by"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Built by"
+                android:textAppearance="?android:textAppearanceSmall" />
+
+            <com.laowch.githubtrends.utils.AsyncImageView
+                android:id="@+id/avatar1"
+                android:layout_width="@dimen/repo_contributor_avatar_size"
+                android:layout_height="@dimen/repo_contributor_avatar_size"
+                android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
+
+            <com.laowch.githubtrends.utils.AsyncImageView
+                android:id="@+id/avatar2"
+                android:layout_width="@dimen/repo_contributor_avatar_size"
+                android:layout_height="@dimen/repo_contributor_avatar_size"
+                android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
+
+            <com.laowch.githubtrends.utils.AsyncImageView
+                android:id="@+id/avatar3"
+                android:layout_width="@dimen/repo_contributor_avatar_size"
+                android:layout_height="@dimen/repo_contributor_avatar_size"
+                android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
+
+            <com.laowch.githubtrends.utils.AsyncImageView
+                android:id="@+id/avatar4"
+                android:layout_width="@dimen/repo_contributor_avatar_size"
+                android:layout_height="@dimen/repo_contributor_avatar_size"
+                android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
+
+            <com.laowch.githubtrends.utils.AsyncImageView
+                android:id="@+id/avatar5"
+                android:layout_width="@dimen/repo_contributor_avatar_size"
+                android:layout_height="@dimen/repo_contributor_avatar_size"
+                android:layout_marginLeft="@dimen/repo_contributor_avatar_margin" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:padding="8dp"
+        android:src="@drawable/ic_star_checked" />
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="top|right"
+        android:background="?attr/colorAccent"
+        android:gravity="center_horizontal|bottom"
+        android:maxLength="6"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:paddingBottom="4dp"
+        android:rotation="45"
+        android:translationX="40dp"
+        android:translationY="-40dp"
+        android:textAppearance="?android:textAppearanceLargeInverse"
+        android:textSize="12dp" />
+</android.support.v7.widget.CardView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="168dp"
+    android:background="?attr/colorPrimaryDark"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="10dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Github\nTrends"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="?attr/colorPrimaryLight"
+        android:textSize="40dp"
+        android:textStyle="bold|italic" />
+
+</FrameLayout>

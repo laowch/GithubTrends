@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="repo_contributor_avatar_size">24dp</dimen>
+    <dimen name="repo_contributor_avatar_margin">8dp</dimen>
+    <dimen name="repo_list_text_margin_top">2dp</dimen>
+    <dimen name="repo_list_avatar_margin_top">4dp</dimen>
+    <dimen name="repo_list_item_padding">16dp</dimen>
+    <dimen name="theme_dialog_margin">4dp</dimen>
+</resources>

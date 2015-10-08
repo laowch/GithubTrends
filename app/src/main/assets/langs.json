@@ -1,0 +1,258 @@
+[
+  {
+    "path": "",
+    "name": "All Language",
+    "short_name": "All"
+  },
+  {
+    "path": "unknown",
+    "name": "Unknown"
+  },
+  {
+    "path": "as3",
+    "name": "ActionScript",
+    "short_name": "AS"
+  },
+  {
+    "path": "apacheconf",
+    "name": "ApacheConf"
+  },
+  {
+    "path": "nasm",
+    "name": "Assembly",
+    "short_name": "NASM"
+  },
+  {
+    "path": "bat",
+    "name": "Batchfile",
+    "short_name": "BAT"
+  },
+  {
+    "path": "c",
+    "name": "C"
+  },
+  {
+    "path": "csharp",
+    "name": "C#"
+  },
+  {
+    "path": "cpp",
+    "name": "C++"
+  },
+  {
+    "path": "cmake",
+    "name": "CMake"
+  },
+  {
+    "path": "css",
+    "name": "CSS"
+  },
+  {
+    "path": "clojure",
+    "name": "Clojure"
+  },
+  {
+    "path": "coffeescript",
+    "name": "CoffeeScript"
+  },
+  {
+    "path": "common-lisp",
+    "short_name": "Lisp",
+    "name": "Common Lisp"
+  },
+  {
+    "path": "crystal",
+    "name": "Crystal"
+  },
+  {
+    "path": "d",
+    "name": "D"
+  },
+  {
+    "path": "dart",
+    "name": "Dart"
+  },
+  {
+    "path": "elixir",
+    "name": "Elixir"
+  },
+  {
+    "path": "emacs-lisp",
+    "short_name": "Lisp",
+    "name": "Emacs Lisp"
+  },
+  {
+    "path": "erlang",
+    "name": "Erlang"
+  },
+  {
+    "path": "fsharp",
+    "name": "F#"
+  },
+  {
+    "path": "game-maker-language",
+    "short_name": "GML",
+    "name": "Game Maker Language"
+  },
+  {
+    "path": "go",
+    "name": "Go"
+  },
+  {
+    "path": "groovy",
+    "name": "Groovy"
+  },
+  {
+    "path": "html",
+    "name": "HTML"
+  },
+  {
+    "path": "haskell",
+    "name": "Haskell"
+  },
+  {
+    "path": "haxe",
+    "name": "Haxe"
+  },
+  {
+    "path": "inno-setup",
+    "short_name": "Inno",
+    "name": "Inno Setup"
+  },
+  {
+    "path": "java",
+    "name": "Java"
+  },
+  {
+    "path": "javascript",
+    "short_name": "JS",
+    "name": "JavaScript"
+  },
+  {
+    "path": "julia",
+    "name": "Julia"
+  },
+  {
+    "path": "kotlin",
+    "name": "Kotlin"
+  },
+  {
+    "path": "livescript",
+    "short_name": "LS",
+    "name": "LiveScript"
+  },
+  {
+    "path": "lua",
+    "name": "Lua"
+  },
+  {
+    "path": "makefile",
+    "name": "Makefile"
+  },
+  {
+    "path": "matlab",
+    "name": "Matlab"
+  },
+  {
+    "path": "nsis",
+    "name": "NSIS"
+  },
+  {
+    "path": "nimrod",
+    "name": "Nimrod"
+  },
+  {
+    "path": "ocaml",
+    "name": "OCaml"
+  },
+  {
+    "short_name": "Obj-C",
+    "path": "objective-c",
+    "name": "Objective-C"
+  },
+  {
+    "short_name": "Obj-C++",
+    "path": "objective-c%2B%2B",
+    "name": "Objective-C++"
+  },
+  {
+    "path": "php",
+    "name": "PHP"
+  },
+  {
+    "path": "plsql",
+    "name": "PLSQL"
+  },
+  {
+    "path": "pascal",
+    "name": "Pascal"
+  },
+  {
+    "path": "perl",
+    "name": "Perl"
+  },
+  {
+    "path": "postscript",
+    "name": "PostScript"
+  },
+  {
+    "path": "powershell",
+    "name": "PowerShell"
+  },
+  {
+    "path": "python",
+    "name": "Python"
+  },
+  {
+    "path": "qml",
+    "name": "QML"
+  },
+  {
+    "path": "r",
+    "name": "R"
+  },
+  {
+    "path": "ruby",
+    "name": "Ruby"
+  },
+  {
+    "path": "rust",
+    "name": "Rust"
+  },
+  {
+    "path": "scala",
+    "name": "Scala"
+  },
+  {
+    "path": "scheme",
+    "name": "Scheme"
+  },
+  {
+    "path": "bash",
+    "name": "Shell"
+  },
+  {
+    "path": "supercollider",
+    "name": "SuperCollider"
+  },
+  {
+    "path": "swift",
+    "name": "Swift"
+  },
+  {
+    "path": "tex",
+    "name": "TeX"
+  },
+  {
+    "path": "typescript",
+    "name": "TypeScript"
+  },
+  {
+    "path": "verilog",
+    "name": "Verilog"
+  },
+  {
+    "path": "xslt",
+    "name": "XSLT"
+  }
+]

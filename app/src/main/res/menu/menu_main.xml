@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/action_custom"
+        android:icon="@drawable/ic_action_custom"
+        android:orderInCategory="83"
+        android:title="@string/custom_language"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_favos"
+        android:icon="@drawable/ic_action_favo"
+        android:orderInCategory="91"
+        android:title="@string/favorites"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+</menu>
