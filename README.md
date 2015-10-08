@@ -13,6 +13,6 @@ It supports more than 50+ program languages and you are free to add/remove/sort 
 It supports nine kinds of color themes.
 
 #Screenshots
-<img src="/screenshot/1.png" alt="screenshot" title="screenshot" width="360" height="640" />   <img src="/screenshot/2.png" alt="screenshot" title="screenshot"  width="360" height="640"  />
+<img src="/screenshot/1.png" alt="screenshot" title="screenshot" width="360" height="640" />   <img src="/screenshot/5.png" alt="screenshot" title="screenshot"  width="360" height="640"  />
 
 <img src="/screenshot/3.png" alt="screenshot" title="screenshot"  width="360" height="640"  />   <img src="/screenshot/4.png" alt="screenshot" title="screenshot"  width="360" height="640" />
