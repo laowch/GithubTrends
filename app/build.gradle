@@ -33,5 +33,5 @@ dependencies {
 
     compile 'com.google.android.gms:play-services:7.5.0'
 
-    compile project(":volley")
+    compile 'com.mcxiaoke.volley:library:1.0.19'
 }
