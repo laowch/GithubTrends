@@ -25,3 +25,11 @@ proguard/
 
 # Log Files
 *.log
+
+# Intellij project files
+*.iml
+
+# Gradle files
+gradlew*
+
+.DS_Store
