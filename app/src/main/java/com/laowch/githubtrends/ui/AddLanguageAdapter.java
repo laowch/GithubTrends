@@ -45,6 +45,10 @@ public class AddLanguageAdapter extends RecyclerView.Adapter<AddLanguageAdapter.
         final Language language = mItems.get(position);
         viewHolder.text.setText(language.name);
 
+        viewHolder.checkBox.setOnCheckedChangeListener(null);
+
+        viewHolder.checkBox.setChecked(selectedItems.contains(language));
+
         viewHolder.checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
