@@ -14,7 +14,7 @@ It supports more than 50+ program languages and you are free to add/remove/sort 
 It supports nine kinds of color themes.
 
 #Downloads 
-Google Play: [https://play.google.com/store/apps/details?id=com.laowch.githubtrends](https://play.google.com/store/apps/details?id=com.laowch.githubtrends&utm=github)
+Google Play: [https://play.google.com/store/apps/details?id=com.laowch.githubtrends.play](https://play.google.com/store/apps/details?id=com.laowch.githubtrends.play2&utm=github)
 
 
 如果喜欢，请给个五星好评，非常感谢！
