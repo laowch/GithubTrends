@@ -18,6 +18,10 @@
     "name": "ApacheConf"
   },
   {
+    "path": "arduino",
+    "name": "Arduino"
+  },
+  {
     "path": "nasm",
     "name": "Assembly",
     "short_name": "NASM"
@@ -150,6 +154,14 @@
     "name": "Makefile"
   },
   {
+    "path": "markdown",
+    "name": "Markdown"
+  },
+  {
+    "path": "mathematica",
+    "name": "Mathematica"
+  },
+  {
     "path": "matlab",
     "name": "Matlab"
   },
@@ -251,6 +263,18 @@
     "path": "verilog",
     "name": "Verilog"
   },
+  {
+    "path": "vhdl",
+    "name": "VHDL"
+  },
+  {
+    "path": "vue",
+    "name": "Vue"
+  },
+  {
+    "path": "xml",
+    "name": "XML"
+  }
   {
     "path": "xslt",
     "name": "XSLT"
